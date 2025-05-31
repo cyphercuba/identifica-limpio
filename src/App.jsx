@@ -9,9 +9,9 @@ import { SuccessPage } from './pages/SuccessPage'
 import { CancelPage } from './pages/CancelPage'
 import { PayPage } from './pages/PayPage'
 import { SubscribePage } from './pages/SubscribePage'
-import { AuthProvider } from './context/AuthContext'
+import { AuthProvider } from '../context/AuthContext'
 
-import './index.css'
+import '../index.css'
 
 export default function App() {
   return (
