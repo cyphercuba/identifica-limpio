@@ -1,3 +1,1 @@
-export function MapPage() {
-  return <div>MapPage (en construcción)</div>
-}
+// MapPage.jsx (contenido a implementar)

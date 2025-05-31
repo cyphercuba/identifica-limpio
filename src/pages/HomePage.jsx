@@ -1,3 +1,1 @@
-export function HomePage() {
-  return <div>HomePage (en construcción)</div>
-}
+// HomePage.jsx (contenido a implementar)

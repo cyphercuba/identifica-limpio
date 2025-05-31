@@ -1,3 +1,1 @@
-export function CancelPage() {
-  return <div>CancelPage (en construcción)</div>
-}
+// CancelPage.jsx (contenido a implementar)

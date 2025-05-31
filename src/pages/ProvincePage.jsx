@@ -1,3 +1,1 @@
-export function ProvincePage() {
-  return <div>ProvincePage (en construcción)</div>
-}
+// ProvincePage.jsx (contenido a implementar)

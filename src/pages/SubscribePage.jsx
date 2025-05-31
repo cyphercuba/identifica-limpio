@@ -1,3 +1,1 @@
-export function SubscribePage() {
-  return <div>SubscribePage (en construcción)</div>
-}
+// SubscribePage.jsx (contenido a implementar)
